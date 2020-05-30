@@ -1,0 +1,11 @@
+\\200.20.20.2\Virasystem\MOVAGHARI\Source\RemoteScreen\RemoteScreen\bin\Debug\RemoteScreen.exe.config
+\\200.20.20.2\Virasystem\MOVAGHARI\Source\RemoteScreen\RemoteScreen\bin\Debug\RemoteScreen.exe
+\\200.20.20.2\Virasystem\MOVAGHARI\Source\RemoteScreen\RemoteScreen\bin\Debug\RemoteScreen.pdb
+\\200.20.20.2\Virasystem\MOVAGHARI\Source\RemoteScreen\RemoteScreen\obj\Debug\RemoteScreen.csprojAssemblyReference.cache
+\\200.20.20.2\Virasystem\MOVAGHARI\Source\RemoteScreen\RemoteScreen\obj\Debug\RemoteScreen.Properties.Resources.resources
+\\200.20.20.2\Virasystem\MOVAGHARI\Source\RemoteScreen\RemoteScreen\obj\Debug\RemoteScreen.csproj.GenerateResource.cache
+\\200.20.20.2\Virasystem\MOVAGHARI\Source\RemoteScreen\RemoteScreen\obj\Debug\RemoteScreen.csproj.CoreCompileInputs.cache
+\\200.20.20.2\Virasystem\MOVAGHARI\Source\RemoteScreen\RemoteScreen\obj\Debug\RemoteScreen.exe
+\\200.20.20.2\Virasystem\MOVAGHARI\Source\RemoteScreen\RemoteScreen\obj\Debug\RemoteScreen.pdb
+\\200.20.20.2\Virasystem\MOVAGHARI\Source\RemoteScreen\RemoteScreen\obj\Debug\RemoteScreen.Form1.resources
+\\200.20.20.2\Virasystem\MOVAGHARI\Source\RemoteScreen\RemoteScreen\obj\Debug\RemoteScreen.Form2.resources
